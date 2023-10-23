@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,api.segment.io
+DOMAIN-SUFFIX,www.gstatic.cn
+DOMAIN-SUFFIX,cocopilot.org
